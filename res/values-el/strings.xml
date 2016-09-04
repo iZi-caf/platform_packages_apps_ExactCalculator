@@ -67,13 +67,16 @@
   <!-- Abbrev. name of degree mode [CHAR_LIMIT=4] -->
   <string name="mode_deg">°</string>
   <!-- Abbrev. name of radian mode. [CHAR_LIMIT=4] -->
+  <string name="mode_rad">RAD</string>
   <!-- Equals button (e.g. "1 + 2 = ?"). [CHAR_LIMIT=1] -->
   <!-- Clear button to clear the currently entered expression. [CHAR_LIMIT=4] -->
+  <string name="clr">CLR</string>
   <!--
       Announced when all characters are removed from Formula, e.g. after clear. [CHAR_LIMIT=NONE]
       -->
   <string name="cleared">διαγράφηκε</string>
   <!-- Delete button to remove last entered token. [CHAR_LIMIT=4] -->
+  <string name="del">del</string>
   <!-- Toggle button to show/hide inverse functions. [CHAR_LIMIT=4] -->
   <!-- Content description for 'e' button. [CHAR_LIMIT=NONE] -->
   <string name="desc_const_e">Αριθμός Euler</string>
